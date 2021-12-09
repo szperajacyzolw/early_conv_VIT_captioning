@@ -1,2 +1,2 @@
 # early_conv_VIT_captioning
-Visual transformer with convolution-based patch embedding. Definietly trainable - good luck for GPU :)
+Visual transformer in Pytorch with convolution-based patch embedding. Definietly trainable. Some tweaks on clipping or loss function may speedup training.
